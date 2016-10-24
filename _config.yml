@@ -9,7 +9,7 @@ markdown: kramdown
   
 # The title and tagline is showed on homepage
 #
-title :  人物
+title :  电视剧
 tagline: On Cqun.com
 
 gems: [jekyll-paginate]
